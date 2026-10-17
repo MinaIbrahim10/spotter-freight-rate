@@ -1,0 +1,13 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+data/
+outputs/
+scorer_results/
+*.joblib
+*.pkl
+
+# Local exploration and backup notebooks
+notebooks/01_exploration.ipynb
+notebooks/*(1).ipynb
+notebooks/*checkpoint*
